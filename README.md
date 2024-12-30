@@ -1,0 +1,1 @@
+This repository contains a Python program demonstrating a common error: ZeroDivisionError in a function that calculates average. The bug.py file shows the code that causes this error, while the bugSolution.py file demonstrates the fix.
